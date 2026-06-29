@@ -4,7 +4,7 @@ Hi, I'm Arya Patil
 </h1>
 
 <p align="center">
-<b>Electrical Engineering (Dual Degree) • IIT Bombay • CPI: 9.01</b>
+<b>Electrical Engineering (Dual Degree) • IIT Bombay • CPI: 9.18</b>
 </p>
 
 <p align="center">
