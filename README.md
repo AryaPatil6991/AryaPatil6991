@@ -64,7 +64,7 @@ My work sits at the intersection of **hardware systems**, **ML**, and **robotics
 | [**Wildlife-Grid-Detection**](https://github.com/AryaPatil6991/Wildlife-Grid-Detection-using-Machine-Learning) | ML / CV | 8×8 grid pipeline, HOG + LBP + HSV features, 96% recall on unseen data |
 | [**Monte-Carlo-RL**](https://github.com/AryaPatil6991/Monte-Carlo-Simulation-) | RL | Blackjack RL agent — MC Prediction & Control, MDPs, off-policy convergence via Weighted Importance Sampling |
 | [**Heart-Disease-Predictor**](https://github.com/AryaPatil6991/Predicting-Heart-Diseases-using-ML) | ML | Framingham dataset — Logistic Regression + Random Forest, 85% accuracy |
-| **Parallel Kuramoto Solver** | FPGA / Digital Systems | Parallel Euler solver on FPGA in Verilog; phases applied to MaxCut problem |
+| [**Parallel Kuramoto Solver**](https://github.com/AryaPatil6991/Parallel-Kuramoto-Solver) | FPGA / Digital Systems | Parallel Euler solver on FPGA in Verilog; phases applied to MaxCut problem |
 | **Joystick-Controlled Drone** | Embedded / Robotics | Custom joystick + drone with PCB design, IMU integration, Arduino flight control |
 
 ---
