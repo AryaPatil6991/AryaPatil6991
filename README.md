@@ -8,7 +8,7 @@ Hi, I'm Arya Patil
 </p>
 
 <p align="center">
-<a href="www.linkedin.com/in/arya-patil-586092323">
+<a href="https://www.linkedin.com/in/arya-patil-586092323/">
 <img src="https://img.shields.io/badge/Arya%20Patil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a></br>
 &#x2709; aryapatil6991@gmail.com
